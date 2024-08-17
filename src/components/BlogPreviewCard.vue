@@ -73,6 +73,7 @@ p, h3 {
   }
 
   &__hero {
+    width: 100%;
     border-radius: 8px;
   }
 

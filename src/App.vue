@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import BlogPreviewCard from "./components/BlogPreviewCard.vue";
+import OrderSummaryComponent from "./components/OrderSummaryComponent.vue";
 </script>
 
 <template>
-  <BlogPreviewCard />
+  <OrderSummaryComponent />
 </template>
